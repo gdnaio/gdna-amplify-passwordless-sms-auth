@@ -5,10 +5,10 @@ Description: >
 
 Metadata:
   AWS::ServerlessRepo::Application:
-    Name: amplify-passwordless-sms-auth 
+    Name: gdna-amplify-passwordless-sms-auth 
     Description: >
       Passwordless SMS authentication backend using Amazon Cognito User Pools CUSTOM AUTH challenge flow w/ AWS Lambda triggers and Amazon SNS for sending SMS TOTP
-    Author: Mobile Quickie
+    Author: gdna
     SpdxLicenseId: MIT
     LicenseUrl: LICENSE
     ReadmeUrl: README.md
