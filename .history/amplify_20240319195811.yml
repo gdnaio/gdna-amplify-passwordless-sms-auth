@@ -9,7 +9,7 @@ frontend:
       commands:
         - npm run build
   artifacts:
-    baseDirectory: webClient/angular/dist/gdna-amplify-passwordless-sms-auth-client
+    baseDirectory: webClient/angular/dist/amplify-passwordless-sms-auth-client
     files:
       - '**/*'
   cache:
